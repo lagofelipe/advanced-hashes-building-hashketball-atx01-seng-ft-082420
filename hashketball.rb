@@ -5,8 +5,8 @@ Pull requests
 Issues
 Marketplace
 Explore
- 
-@lagofelipe 
+
+@lagofelipe
 lagofelipe
 /
 advanced-hashes-building-hashketball-atx01-seng-ft-082420
@@ -28,7 +28,7 @@ Latest commit fcf8780 on Mar 24
  5 contributors
 @aviflombaum@maxwellbenton@SophieDeBenedetto@sim1hill@loganhasson
 126 lines (126 sloc)  2.52 KB
-  
+
 def game_hash
   {
     home: {
@@ -157,4 +157,3 @@ def game_hash
     }
   }
 end
-
