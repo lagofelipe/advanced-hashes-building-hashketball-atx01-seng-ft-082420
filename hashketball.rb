@@ -63,9 +63,12 @@ def game_hash
       ]
     },
     away: {
-      team_name: "",
+     team_name: "",
       colors: [],
       players: [
+#binding.pry
+
+
         {
           player_name: "Jeff Adrien",
           number: 4,
