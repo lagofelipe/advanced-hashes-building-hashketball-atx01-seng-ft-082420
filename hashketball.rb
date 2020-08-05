@@ -1,33 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
-
-@lagofelipe
-lagofelipe
-/
-advanced-hashes-building-hashketball-atx01-seng-ft-082420
-forked from learn-co-students/advanced-hashes-building-hashketball-atx01-seng-ft-082420
-0
-03
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-Settings
-advanced-hashes-building-hashketball-atx01-seng-ft-082420/hashketball.rb /
-@maxwellbenton
-maxwellbenton add solution
-Latest commit fcf8780 on Mar 24
- History
- 5 contributors
-@aviflombaum@maxwellbenton@SophieDeBenedetto@sim1hill@loganhasson
-126 lines (126 sloc)  2.52 KB
 
 def game_hash
   {
@@ -141,7 +111,7 @@ def game_hash
           slam_dunks: 0
         },
 
-        
+
         {
           player_name: "Kemba Walker",
           number: 33,
